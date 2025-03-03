@@ -37,7 +37,8 @@ Sample hex output is below:
 ![image](https://github.com/user-attachments/assets/b8b0a46a-594c-480d-b277-9d0650d59acb)
 
 You could use a simple script to turn this into a hexadecimal array:
-![image](https://github.com/user-attachments/assets/dd8faefe-c209-4f83-ac28-e14e0e8a349f)
+![image](https://github.com/user-attachments/assets/6439301e-d5b7-4612-94a1-0c66c3001d66)
+
 
 Flow in main.c:
 
