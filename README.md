@@ -7,7 +7,9 @@ These documents also outline the instructions used in this programming example.
 Source files:
 
 main.c -contains the main programming procedure
+
 rbpi-i2c.c- contains the functions for i2c transaction and programming commands for MachXO3
+
 data.c- contains the bitstream data
 
 
